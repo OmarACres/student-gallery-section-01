@@ -3,7 +3,7 @@
 <head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <!-- TemplateBeginEditable name="doctitle" -->
-		<title>Untitled Document</title>
+		<title>Student Gallery</title>
 		<!-- TemplateEndEditable -->
 <!-- TemplateBeginEditable name="head" -->
 	<!-- TemplateEndEditable -->
@@ -11,5 +11,18 @@
 	</head>
 
 	<body>
+	<p>[Put MC logo here]</p>
+	<table>
+		<tr>
+			<td><a href="../index.html">Home Page</a></td>
+			<td><a href="../about-this-course.html">About This Course</a></td>
+			<td><a href="../class-directory.html">Class Directory</a></td>
+			<td><a href="../contact-us.html">Contact Us</a></td>
+			<td><a href="../project-guidelines.html">Project Guidelines</a></td>
+		</tr>
+	</table>
+	<!-- TemplateBeginEditable name="Main Content Area" -->
+	<p>[put content here]</p>
+	<!-- TemplateEndEditable -->
 	</body>
 </html>
